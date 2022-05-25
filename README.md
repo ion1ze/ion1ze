@@ -1,1 +1,1 @@
-[![ion1ze's GitHub stats](https://github-readme-stats.vercel.app/api?username=ion1ze&count_private=true)](https://github.com/ion1ze)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ion1ze)](https://github.com/ion1ze)
