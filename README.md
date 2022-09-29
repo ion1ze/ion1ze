@@ -1,5 +1,3 @@
 # 自我简介
 
-喜欢折腾，喜欢钻研
-
-![profile](./profile-3d-contrib/profile-south-season-animate.svg)
+00 后，喜欢造轮子，喜欢钻研，喜欢阅读
